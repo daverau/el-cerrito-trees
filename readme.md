@@ -4,9 +4,9 @@ City of El Cerrito, California
 - elevation of around 69 feet above sea level
 - average rainfall around 26.3 inches
 - population of roughly 23,549 people
-- Trees provide annual benefits of $1,313,833
 
 # Trees
+- Trees provide annual benefits of $1,313,833
 - 10,315 trees
 - 4,011 available planting sites
 - $307,250 in annual maintenance
